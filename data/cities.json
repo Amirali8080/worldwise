@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 172806751
+    },
+    {
+      "cityName": "Sawtry",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "date": "2023-10-07T07:39:55.841Z",
+      "emoji": "🇬🇧",
+      "notes": "test",
+      "position": {
+        "lat": "52.452354283872026",
+        "lng": "-0.2784115204862903"
+      },
+      "id": 984433198
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "date": "2023-10-04T09:15:38.000Z",
+      "emoji": "🇮🇹",
+      "notes": "amazing",
+      "position": {
+        "lat": "41.89697807689522",
+        "lng": "12.488090807241926"
+      },
+      "id": 984433199
+    }
+  ]
+}
